@@ -1,6 +1,6 @@
 # UnsplashGallery
 
-![Uploading Screenshot 2024-10-16 at 10.14.44 p.m..png…]()
+<img width="1405" alt="Screenshot 2024-10-16 at 10 15 32 p m" src="https://github.com/user-attachments/assets/9fdcfa6e-9460-4f8d-b767-aa02215f325b">
 
 **UnsplashGallery** is an iOS app I built as part of my learning process in Swift development. It connects to the Unsplash API and displays a gallery of photos in a table view. This project helped me deepen my understanding of iOS app architecture, especially the use of ViewModels and optimizing performance using caching techniques.
 
